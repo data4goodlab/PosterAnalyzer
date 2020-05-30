@@ -17,5 +17,6 @@ https://colab.research.google.com/github/tensorflow/tpu/blob/master/models/offic
 * Ethinicty Recognition - https://github.com/usc-sail/mica-race-from-face
 https://github.com/wondonghyeon/face-classification
 https://github.com/HectorAnadon/Face-expression-and-ethnic-recognition
+https://github.com/serengil/deepface
 * Poster Embedding - extra
 * Extra - https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/, https://github.com/oarriaga/face_classification
