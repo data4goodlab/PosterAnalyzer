@@ -11,3 +11,6 @@ Pillow==8.0.1
 python-dotenv==0.10.1
 tensorflow==2.0.0
 tqdm==4.31.1
+matplotlib==3.3.3
+IMDbPY==2020.9.25
+wptools==0.4.17
