@@ -14,3 +14,5 @@ tqdm==4.31.1
 matplotlib==3.3.3
 IMDbPY==2020.9.25
 wptools==0.4.17
+fastai==2.1.9
+turicreate==6.4.1
